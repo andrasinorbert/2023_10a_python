@@ -33,3 +33,11 @@ for i in range(len(file_lista)):
 #       "Név\tJanuary\tFebruary\tMarch\tApril\tMay\tJune\tJuly\tAugust\tSeptember\tOctober\tNovember\tDecember"
 fejlec="Név\tJanuary\tFebruary\tMarch\tApril\tMay\tJune\tJuly\tAugust\tSeptember\tOctober\tNovember\tDecember"
 print(fejlec)
+
+
+# 3) Add meg, hogy márciusban ki sütötte a legtöbb palacsintát!
+# 4) Add meg, hogy ki sütötte az évben a legkevesebb palacsintát!
+# 5) Add meg, hogy az a személy, akinek B-vel kezdődik a neve, Májusban hány palacsintát sütött.
+# 6) Volt-e olyan személy, akinek az évben változó teljesítménye volt?
+#       Pl: sütött valamennyit, majd a következő hónapban többet, a következőben az előzőnél kevesebbet stb
+#       írd ki a személy nevét!
