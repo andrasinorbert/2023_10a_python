@@ -14,6 +14,16 @@ feladat1() -> input1
 feladat2() -> input2
 feladat3() -> input3
 feladat4() -> input3
+
+Kiírások:
+feladat1: [eredmény]
+feladat2: [eredmény]
+feladat3: [eredmény]
+feladat4: [eredmény]
+A ": " után csak az eremény szerepeljen
+
+A dolgozat python fájlját küldd el a andrasi.norbert@puskas.hu-ra az alábbi tárggyal:
+[osztály][filebeolvasas1] név 
 """
 def beolvas():
     pass
